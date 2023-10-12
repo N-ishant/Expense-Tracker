@@ -1,6 +1,6 @@
 body{
     margin: 0;
-    background: linear-gradient(lightpink,lightblue);
+    background: linear-gradient(lightPink, beige, lightgreen);
     min-height: 100vh;
     min-width: 100vw;
     text-align: center;
